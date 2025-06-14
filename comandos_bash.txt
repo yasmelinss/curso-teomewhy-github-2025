@@ -4,6 +4,4 @@ pwd -> mostra diretório de trabalho
 mkdir -> cria uma nova pasta
 cat -> exibe conteúdo do arquivo
 rm -> remove arquivo ou diretório
-
-atualizando
-atualizando por aqui
+rm -rf -> remove de forma recursiva e forçada todos os diretórios

@@ -1,4 +1,0 @@
-ls -> lista os arquivos
-cd -> move entre diretórios
-pwd -> mostra diretório de trabalho
-mkdir -> cria uma nova pasta
