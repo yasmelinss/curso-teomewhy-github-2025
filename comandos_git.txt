@@ -6,3 +6,4 @@ nano -> editor
 ctrl o -> salva
 git log -> mostra todo o histórico do commit
 git add . -> adiciona tudo da pasta atual 
+git diff -> detalha as diferenças de todos os arquivos
